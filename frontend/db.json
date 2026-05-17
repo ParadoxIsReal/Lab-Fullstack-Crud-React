@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "nome": "RONALDO O. Jesus",
+      "email": "ronaldinho@gmail.com",
+      "senha": "123456",
+      "status": "inativo",
+      "id": "137c"
+    },
+    {
+      "nome": "PINTO D. ",
+      "email": "pinto@gmail.com",
+      "senha": "piroca",
+      "status": "inativo",
+      "id": "0f1d"
+    }
+  
+  ]
+}
