@@ -14,7 +14,7 @@ export const Nav = () => {
           <i className="bi bi-list" />
         </button>
 
-        <span className="navbar-brand mb-0 h1">Minha App</span>
+        <span className="navbar-brand mb-0 h1"></span>
       </nav>
 
       <OffCanvas show={show} onClose={() => setShow(false)} />

@@ -3,7 +3,7 @@ import { useState } from 'react'
 
 type Tab = 'Trilhas' | 'Cursos' | 'Módulos' | 'Aulas' | 'Usuários' | 'Assinaturas' | 'Certificado'
 
-const tabs: Tab[] = ['Trilhas', 'Cursos', 'Módulos', 'Aulas', 'Usuários', 'Assinaturas', 'Certificado']
+const tabs: Tab[] = ['Trilhas', 'Cursos', 'Módulos', 'Aulas', 'Usuários', 'Assinaturas', 'Certificados']
 
 export const VSFCursos = () => {
   const [activeTab, setActiveTab] = useState<Tab>('Trilhas')
